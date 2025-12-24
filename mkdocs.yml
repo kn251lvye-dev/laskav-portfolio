@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Портфоліо Ласкавого Владислава
+
+nav:
+  - Головна: index.md
+  - Про мене: about.md
+  - Мої проєкти: projects.md
+  - Процес роботи: workflow.md
